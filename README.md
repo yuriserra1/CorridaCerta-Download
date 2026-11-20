@@ -11,6 +11,8 @@
 
 <p align="center">
   <a href="https://github.com/yuriserra1/CorridaCerta-Download/releases/tag/ultima"><strong>📥 Baixar CorridaCerta.apk (versão mais recente)</strong></a>
+  ·
+  <a href="https://corridascertas.vercel.app"><strong>🌐 Site oficial e planos</strong></a>
 </p>
 
 ---
