@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yuriserra1/CorridaCerta-Download/releases/tag/ultima"><strong>📥 Baixar CorridaCerta.apk (versão mais recente)</strong></a>
+  <a href="https://github.com/yuriserra1/CorridaCerta-Download/raw/main/CorridaCerta.apk"><strong>📥 Baixar CorridaCerta.apk (download direto)</strong></a>
   ·
   <a href="https://corridascertas.vercel.app"><strong>🌐 Site oficial e planos</strong></a>
 </p>
@@ -22,8 +22,7 @@
 > **Requisito:** celular com **Android 11 ou superior** e assinatura mensal ou vitalícia ativa pela **Cakto**.
 
 ### 1. Baixar o aplicativo
-1. Acesse **[Releases → Última versão](https://github.com/yuriserra1/CorridaCerta-Download/releases/tag/ultima)**.
-2. Role até **Assets** e toque em **`CorridaCerta.apk`** para baixar.
+1. Toque no link direto: **[📥 Baixar CorridaCerta.apk](https://github.com/yuriserra1/CorridaCerta-Download/raw/main/CorridaCerta.apk)** para iniciar o download imediatamente.
 
 ### 2. Instalar o arquivo `.apk`
 1. Abra o arquivo baixado na barra de notificações ou na pasta **Downloads**.
