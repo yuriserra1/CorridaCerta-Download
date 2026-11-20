@@ -53,3 +53,4 @@
 - **Zero senhas:** o Corrida Certa nunca pede seu login ou senha da Uber ou da 99.
 - **Dados só no seu celular:** suas corridas, faturamento e lucro líquido ficam salvos localmente no aparelho. A internet é usada apenas para conferir o e-mail da sua assinatura Cakto.
 - **Em breve na Google Play Store:** quem adquirir o plano mensal ou vitalício pela Cakto mantém o acesso garantido quando o app entrar na loja oficial.
+- **Suporte no WhatsApp:** [Falar com o suporte (53) 99136-9403](https://wa.me/5553991369403?text=Ol%C3%A1!%20Preciso%20de%20ajuda%20com%20o%20aplicativo%20Corrida%20Certa.)
